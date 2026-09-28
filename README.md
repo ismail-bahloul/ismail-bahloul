@@ -9,7 +9,7 @@
   Systems & DevOps Engineer · Creative Technologist
 </div>
 
-- [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer (120+ stars).
+- [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer.
 - [babyface-pro-linux](https://github.com/ismail-bahloul/babyface-pro-linux): Linux kernel driver for the RME Babyface Pro FS.
 - [TuxMix](https://github.com/ismail-bahloul/TuxMix): open-source mixer for RME audio interfaces, in Rust.
 
