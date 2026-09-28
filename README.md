@@ -6,7 +6,9 @@
 
   ### Ismaïl Bahloul
 
-  Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/LLM pipelines.
+  Systems Engineer · Creative Technologist
+
+  Linux · Infra · AI/LLM
 </div>
 
 - [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer (120+ stars).
