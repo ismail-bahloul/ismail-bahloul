@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+  <img alt="IB logo" src="assets/logo.svg" width="120">
+</picture>
+
 ### Ismaïl Bahloul
 
 Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/LLM pipelines.
