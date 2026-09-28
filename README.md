@@ -6,7 +6,7 @@
 
   ### Ismaïl Bahloul
 
-  Systems Engineer · Creative Technologist
+  Systems & DevOps Engineer · Creative Technologist
 </div>
 
 - [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer (120+ stars).
