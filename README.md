@@ -1,11 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-  <img alt="IB logo" src="assets/logo.svg" width="120">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img alt="IB logo" src="assets/logo.svg" width="72">
+  </picture>
 
-### Ismaïl Bahloul
+  ### Ismaïl Bahloul
 
-Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/LLM pipelines.
+  Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/LLM pipelines.
+</div>
 
 - [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer (120+ stars).
 - [babyface-pro-linux](https://github.com/ismail-bahloul/babyface-pro-linux): Linux kernel driver for the RME Babyface Pro FS.
@@ -13,4 +15,8 @@ Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/L
 - [TDAsCode](https://github.com/ismail-bahloul/TDAsCode): edit TouchDesigner projects from code, with an AI bridge.
 - [myomen15](https://github.com/ismail-bahloul/myomen15): a measured exploration of a laptop's low-level control surface.
 
+<div align="center">
+
 [LinkedIn](https://linkedin.com/in/ismail-bahloul) · [i.bahloul01@gmail.com](mailto:i.bahloul01@gmail.com)
+
+</div>
