@@ -1,6 +1,6 @@
 ### Ismaïl Bahloul
 
-Systems & AI engineer. Linux low level, infrastructure, AI/LLM pipelines.
+Systems Engineer · Creative Technologist. Linux low level, infrastructure, AI/LLM pipelines.
 
 - [TouchDesigner-Linux](https://github.com/ismail-bahloul/TouchDesigner-Linux): TouchDesigner on Linux, one-command installer (120+ stars).
 - [babyface-pro-linux](https://github.com/ismail-bahloul/babyface-pro-linux): Linux kernel driver for the RME Babyface Pro FS.
